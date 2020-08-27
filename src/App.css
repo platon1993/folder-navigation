@@ -1,0 +1,35 @@
+li {
+  list-style-type: none;
+}
+
+ul {
+  margin-left: 0; 
+  padding-left: 0; 
+}
+
+.menu {
+  width: 300px;
+  padding: 30px;
+  height: 100%;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: bold;
+}
+.item {
+  display: flex;
+  align-items: center;
+  height: 40px;
+}
+.icon {
+  margin-right:10px;
+}
+.subMenu {
+  margin-left:10px;
+}
+.arrow {
+  margin-left:10px;
+}
+
+
