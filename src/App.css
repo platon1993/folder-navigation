@@ -21,6 +21,7 @@ ul {
   display: flex;
   align-items: center;
   height: 40px;
+  cursor: pointer;
 }
 .icon {
   margin-right:10px;
