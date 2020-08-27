@@ -38,7 +38,6 @@ function Item({value}) {
                       <FolderClose color={color}/>
                   }  
               </div>
-              {/* <div className={'' + (items[value.id] && 'active')} > */}
               <div style={{color: items[value.id] && activeColor}} >
                   {value.title}
               </div>

@@ -20,6 +20,8 @@ function App() {
     <div>
       <Menu 
          title = "Folders"
+         color = "#919191"
+         activeColor = "#4640de"
          background = "#f5f5f5"
          folders = {folders}
       />
